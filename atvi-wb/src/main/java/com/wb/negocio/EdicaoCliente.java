@@ -112,6 +112,7 @@ public class EdicaoCliente extends Edicao{
             		LocalDate dataNascFormatada = LocalDate.parse(dataNasc, formato);
             		cliente.setDataNascimento(dataNascFormatada);
             		execucao = false;
+            		System.out.println("\n✅ Data de Nascimento editada");
                     break;
                 default:
                     System.out.println("\n Operação não realizada\n");
