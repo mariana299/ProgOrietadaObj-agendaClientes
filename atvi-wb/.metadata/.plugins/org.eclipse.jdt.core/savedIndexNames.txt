@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/marianadassis299/Desktop/03_SEMESTRE/04_PROG_ORIENT_OBJ/atvi-wb-master/atvi-wb/.metadata/.plugins/org.eclipse.jdt.core
+1005400069.index
+1201500532.index
+1865797976.index
