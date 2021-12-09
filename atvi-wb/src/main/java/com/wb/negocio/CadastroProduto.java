@@ -80,7 +80,7 @@ public class CadastroProduto extends Cadastro {
 				genero = "Masculino";
 				break;
 			case 3:
-				genero = "Unisex";
+				genero = "Unissex";
 				break;
 			default:
 				System.out.println("\nOperação não realizada");
