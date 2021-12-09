@@ -44,7 +44,7 @@ public class CadastroTransacaoServico extends Cadastro {
 				quantidadeServicos = quantidadeServicos + 1;
 				servicosComprados.add(servicoProcuradoTransacao);
 				this.clienteComprador.includeServicoConsumido(servicoProcuradoTransacao);
-				System.out.println("\n✅ Servico incluido");
+				System.out.println("\n✔ Servico incluido");
 			}
 			System.out.println("\n Deseja inserir outro serviço?");
 			System.out.println("1 - Sim");
@@ -58,6 +58,7 @@ public class CadastroTransacaoServico extends Cadastro {
 		if (quantidadeServicos > 0) {
 			Transacao transacao = new Transacao(codigo, clienteComprador, valorTotal, quantidadeServicos, servicosComprados, LocalDate.now());
 			this.transacoes.add(transacao);
+			System.out.println("\n✅ Transação registrada");
 		}
 		else {
 			System.out.println("\nCadastro de Transação cancelado, pois nenhum serviço foi incluido.");

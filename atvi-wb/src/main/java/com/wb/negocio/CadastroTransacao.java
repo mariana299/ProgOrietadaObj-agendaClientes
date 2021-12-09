@@ -43,7 +43,7 @@ public class CadastroTransacao extends Cadastro {
 				quantidadeProdutos = quantidadeProdutos + 1;
 				produtosComprados.add(produtoProcuradoTransacao);
 				this.clienteComprador.includeProdutoConsumido(produtoProcuradoTransacao);
-				System.out.println("\n✅ Produto incluido");
+				System.out.println("\n✔ Produto incluído");
 			}
 			
 			System.out.println("\n Deseja inserir outro produto?");
@@ -58,6 +58,7 @@ public class CadastroTransacao extends Cadastro {
 		if (quantidadeProdutos > 0) {
 			Transacao transacao = new Transacao(codigo, clienteComprador, valorTotal, quantidadeProdutos, produtosComprados);
 			this.transacoes.add(transacao);
+			System.out.println("\n✅ Transação registrada");
 		}
 		else {
 			System.out.println("\nCadastro de Transação cancelado, pois nenhum produto foi incluido.");
