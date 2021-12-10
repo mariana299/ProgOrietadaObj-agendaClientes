@@ -4,9 +4,9 @@
  Atividade Proposta da disciplina de Programação Orientada a Objeto, 3º período ADS. 
  A atividade proposta pode ser verificada no [link](https://github.com/mariana299/ProgOrietadaObj-agendaClientes/blob/main/Atividade_POO.pdf)
  
-## 📌  Softwares utilizados:
-• Eclipse IDE. <img src="https://i.ibb.co/zsTgDF3/download.png"/></br>
-• Plataforma Java SE. ☕ </br>
+### 📌  Softwares utilizados:
+<img src="https://i.ibb.co/zsTgDF3/download.png"/></br> Eclipse IDE. 
+ ☕  Plataforma Java SE. </br>
 
 ### 💻 Aplicação
 
