@@ -5,8 +5,8 @@
  A atividade proposta pode ser verificada no [link](https://github.com/mariana299/ProgOrietadaObj-agendaClientes/blob/main/Atividade_POO.pdf)
  
 ### 📌  Softwares utilizados:
-<img src="https://i.ibb.co/zsTgDF3/download.png"/>Eclipse IDE</br>
- ☕  Plataforma Java SE </br>
+* <img src="https://i.ibb.co/dJxyjmT/download.png"/>Eclipse IDE</br>
+* ☕  Plataforma Java SE </br>
 
 ### 💻 Aplicação
 
