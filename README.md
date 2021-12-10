@@ -6,7 +6,7 @@
  
  Softwares utilizados:
  
-• Eclipse IDE. <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" style="width: 0.1px;"/></br>
+• Eclipse IDE. <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" style="max-width: 1px;"/></br>
 • Plataforma Java SE. ☕ 
 
 
