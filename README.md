@@ -1,5 +1,5 @@
 # ProgOrietadaObj-agendaClientes
- FatecSJC
+ <img src="https://fatecsjc-prd.azurewebsites.net/images/logo/fatecsjc_400x192.png"/></br>
  
  Atividade Proposta da disciplina de Programação Orientada a Objeto, 3º período ADS. 
  A atividade proposta pode ser verificada no [link](https://github.com/mariana299/ProgOrietadaObj-agendaClientes/blob/main/Atividade_POO.pdf)
