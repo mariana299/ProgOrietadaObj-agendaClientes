@@ -4,21 +4,20 @@
  Atividade Proposta da disciplina de Programação Orientada a Objeto, 3º período ADS. 
  A atividade proposta pode ser verificada no [link](https://github.com/mariana299/ProgOrietadaObj-agendaClientes/blob/main/Atividade_POO.pdf)
  
- Softwares utilizados:
- 
-• Eclipse IDE. <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" style="height=20"/></br>
-• Plataforma Java SE. ☕ 
+## 📌  Softwares utilizados:
+• Eclipse IDE. <img src="https://i.ibb.co/zsTgDF3/download.png"/></br>
+• Plataforma Java SE. ☕ </br>
 
+### 💻 Aplicação
 
+Foi desenvolvida uma **Agenda de Clientes** para o grupo World Beauty. Esta agenda, é um sistema do tipo cli (command-line interface).</br>
 
-Foi desenvolvida uma Agenda de Clientes para o grupo World Beauty. Esta agenda, é um sistema do tipo cli (command-line interface).
+A agenda contém as seguintes funcionalidades de cadastro:
+* CRUD (Create, Read, Update e Delete) de clientes.
+* CRUD de produtos ou serviços.
+* Registro de consumo dos produtos ou serviços que cada cliente adquiriu.
 
-A agenda deverá ter as seguintes funcionalidades de cadastro:
-• CRUD (Create, Read, Update e Delete) de clientes.
-• CRUD de produtos ou serviços.
-• Registro de consumo dos produtos ou serviços que cada cliente adquiriu.
-
-Outras funcionalidades que o sistema deverá ter:
+Outras funcionalidades que o sistema possui:
 1. Listagem dos 10 clientes que mais consumiram produtos ou serviços, em quantidade, não em valor.
 2. Listagem de todos os clientes por gênero.
 3. Listagem geral dos serviços ou produtos mais consumidos.
