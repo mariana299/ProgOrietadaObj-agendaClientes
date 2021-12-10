@@ -5,8 +5,10 @@
  A atividade proposta pode ser verificada no [link](https://github.com/mariana299/ProgOrietadaObj-agendaClientes/blob/main/Atividade_POO.pdf)
  
  Softwares utilizados:
-• Eclipse IDE. ![](https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png)
+• Eclipse IDE. <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" style="font-size: 0.73em;"/></br>
 • Plataforma Java SE. ☕ 
+
+
 
 Foi desenvolvida uma Agenda de Clientes para o grupo World Beauty. Esta agenda, é um sistema do tipo cli (command-line interface).
 
